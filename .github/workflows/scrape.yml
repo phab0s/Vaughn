@@ -1,42 +1,58 @@
 name: Scrape Vaughn Live
 
 on:
-  # 1. Dispara al hacer push sobre main, para poder probar inmediatamente
+  # 1. Dispara al hacer push sobre main (para pruebas inmediatas)
   push:
     branches:
-      - main                           # :contentReference[oaicite:0]{index=0}
+      - main
 
   # 2. Dispara cada 4 horas en UTC
   schedule:
-    - cron: '0 */4 * * *'             # :contentReference[oaicite:1]{index=1}
+    - cron: '0 */4 * * *'
 
-  # 3. Habilita ejecución manual desde la interfaz (Run workflow)
-  workflow_dispatch:                 # :contentReference[oaicite:2]{index=2}
+  # 3. Habilita ejecución manual desde la interfaz
+  workflow_dispatch:
 
 jobs:
   extract:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Clona el repositorio
       - name: Check out repository
         uses: actions/checkout@v4
 
+      # 2. Prepara Python 3.11
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Instala Playwright y navegadores
+      # 3. Instala Playwright y navegadores
+      - name: Install Playwright & browsers
         run: |
           pip install --upgrade pip
           pip install playwright
           playwright install --with-deps
 
-      - name: Ejecuta tu scraper
+      # 4. Ejecuta tu scraper
+      - name: Run scraper
         run: python main.py
 
-      - name: Sube canales.json como artifact
+      # 5. Sube canales.json como artifact
+      - name: Upload canales.json artifact
         uses: actions/upload-artifact@v4
         with:
           name: canales-json
           path: canales.json
+
+      # 6. Commit & push de canales.json de vuelta al repo
+      - name: Commit and push canales.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update canales.json via GitHub Actions"
+          file_pattern: "canales.json"
+          branch: main
+          push_options: --force-with-lease
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

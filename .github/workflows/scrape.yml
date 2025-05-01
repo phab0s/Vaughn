@@ -2,7 +2,8 @@ name: Scrape Vaughn Live
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */4 * * *'     # Cada 4 horas (UTC)
+  workflow_dispatch:         # Habilita ejecución manual :contentReference[oaicite:0]{index=0}
 
 jobs:
   extract:
@@ -10,19 +11,22 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - run: |
-          python -m pip install --upgrade pip
+      - name: Instala Playwright y navegadores
+        run: |
+          pip install --upgrade pip
           pip install playwright
           playwright install --with-deps
 
-      - run: python main.py
+      - name: Ejecuta tu scraper
+        run: python main.py
 
-      - uses: actions/upload-artifact@v4
+      - name: Sube canales.json como artifact
+        uses: actions/upload-artifact@v4
         with:
           name: canales-json
           path: canales.json
+

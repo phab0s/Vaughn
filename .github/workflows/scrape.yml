@@ -1,16 +1,14 @@
 name: Scrape Vaughn Live
 
-on:
-  # 1. Dispara al hacer push sobre main (para pruebas inmediatas)
-  push:
-    branches:
-      - main
+# ─── Eleva aquí los permisos del GITHUB_TOKEN ─────────────────────────
+permissions:
+  contents: write    # Habilita push sobre el repo :contentReference[oaicite:7]{index=7}
 
-  # 2. Dispara cada 4 horas en UTC
+on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: '0 */4 * * *'
-
-  # 3. Habilita ejecución manual desde la interfaz
   workflow_dispatch:
 
 jobs:
@@ -18,35 +16,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Clona el repositorio
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      # 2. Prepara Python 3.11
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+        with: { python-version: '3.11' }
 
-      # 3. Instala Playwright y navegadores
       - name: Install Playwright & browsers
         run: |
           pip install --upgrade pip
           pip install playwright
           playwright install --with-deps
 
-      # 4. Ejecuta tu scraper
       - name: Run scraper
         run: python main.py
 
-      # 5. Sube canales.json como artifact
       - name: Upload canales.json artifact
         uses: actions/upload-artifact@v4
         with:
           name: canales-json
           path: canales.json
 
-      # 6. Commit & push de canales.json de vuelta al repo
       - name: Commit and push canales.json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

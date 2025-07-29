@@ -1,31 +1,45 @@
 [
   {
+    "canal": "11telemundial",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_11telemundial.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/11telemundial.jpg",
+    "estado": ":: TELEMUNDO usa ::",
+    "espectadores": "62 Watching"
+  },
+  {
     "canal": "simpson_maniahd193",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/simpson_maniahd193.jpg",
     "estado": "(movie) < Bienvenidos A Simpson_Mania Las 24 HRS > Si Te Gusta El Canal No Olvides Seguirnos Sobre El ><3< Debajo La Pantalla (bow) Gracias",
-    "espectadores": "147 Watching"
-  },
-  {
-    "canal": "a_neflix01",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/a_neflix01.jpg",
-    "estado": "𝔹𝕀𝔼ℕ𝕍𝔼ℕ𝕀𝔻𝕆𝕊 𝔸 ℕ𝔼𝔽𝕃𝕀𝕏 ℙ𝔼𝕃Íℂ𝕌𝕃𝔸𝕊 𝔼ℕ ℂ𝔸𝕃𝕀𝔻𝔸𝔻 𝟙𝟘𝟠𝟘ℙ 𝕌𝕃𝕋ℝ𝔸 ℍ𝔻",
-    "espectadores": "69 Watching"
+    "espectadores": "124 Watching"
   },
   {
     "canal": "beto_7hd",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/beto_7hd.jpg",
     "estado": "Only movies for entertainment . Cine HD. 24 Hs",
-    "espectadores": "68 Watching"
+    "espectadores": "89 Watching"
+  },
+  {
+    "canal": "a_neflix01",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/a_neflix01.jpg",
+    "estado": "𝔹𝕀𝔼ℕ𝕍𝔼ℕ𝕀𝔻𝕆𝕊 𝔸 ℕ𝔼𝔽𝕃𝕀𝕏 ℙ𝔼𝕃Íℂ𝕌𝕃𝔸𝕊 𝔼ℕ ℂ𝔸𝕃𝕀𝔻𝔸𝔻 𝟙𝟘𝟠𝟘ℙ 𝕌𝕃𝕋ℝ𝔸 ℍ𝔻",
+    "espectadores": "55 Watching"
+  },
+  {
+    "canal": "juancine_tv",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/juancine_tv.jpg",
+    "estado": "PELICULAS ACCION FICCION TERROR COMEDIA DRAMA Y ESTRENOS HD",
+    "espectadores": "41 Watching"
   },
   {
     "canal": "cienciaficcion01",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cienciaficcion01.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/cienciaficcion01.jpg",
     "estado": "two and a half men - the big bang theory en Latino",
-    "espectadores": "39 Watching"
+    "espectadores": "34 Watching"
   },
   {
     "canal": "terror_mania",
@@ -35,6 +49,13 @@
     "espectadores": "33 Watching"
   },
   {
+    "canal": "peliculas_mania",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/peliculas_mania.jpg",
+    "estado": "(movie) < Bienvenidos A Peliculas_Mania > Si Te Gusta El Canal No Olvides Seguirnos Sobre El ><3< Debajo La Pantalla (bow) Gracias",
+    "espectadores": "27 Watching"
+  },
+  {
     "canal": "goku_tv_oficial",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/goku_tv_oficial.jpg",
@@ -42,95 +63,109 @@
     "espectadores": "25 Watching"
   },
   {
-    "canal": "peliculas_mania",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/peliculas_mania.jpg",
-    "estado": "(movie) < Bienvenidos A Peliculas_Mania > Si Te Gusta El Canal No Olvides Seguirnos Sobre El ><3< Debajo La Pantalla (bow) Gracias",
-    "espectadores": "25 Watching"
+    "canal": "all_famailla_tuc",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_all_famailla_tuc.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/all_famailla_tuc.jpg",
+    "estado": "all streaming",
+    "espectadores": "20 Watching"
   },
   {
     "canal": "shy_ch_eurydice",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_eurydice.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/shy_ch_eurydice.jpg",
     "estado": "Recuerden, niños, no hay preguntas estúpidas, sólo gente estúpida.",
-    "espectadores": "17 Watching"
-  },
-  {
-    "canal": "shy_ch_aariah",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_aariah.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/shy_ch_aariah.jpg",
-    "estado": "(◉ _ ◉) Cuando te cagas en los sueños, te cagas de verdad.",
-    "espectadores": "16 Watching"
-  },
-  {
-    "canal": "mfv_03",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mfv_03.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/mfv_03.jpg",
-    "estado": "ℂ𝕃𝔸𝕊𝕊𝕀ℂ ℙℝ𝕆𝕁𝔼ℂ𝕋 𝕃𝔸 ℂ𝕆𝕄𝕌ℕ𝕀𝔻𝔸𝔻 𝔻𝔼 𝕃𝕆𝕊 𝔻𝕁",
-    "espectadores": "15 Watching"
-  },
-  {
-    "canal": "juancine_tv",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/juancine_tv.jpg",
-    "estado": "PELICULAS ACCION FICCION TERROR COMEDIA DRAMA Y ESTRENOS HD",
-    "espectadores": "14 Watching"
-  },
-  {
-    "canal": "peliculas_moe",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/peliculas_moe.jpg",
-    "estado": "Pelis Infantiles ~ 24 horas",
-    "espectadores": "9 Watching"
-  },
-  {
-    "canal": "shy_ch_anaeter",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_anaeter.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/shy_ch_anaeter.jpg",
-    "estado": "┌(◉ ͜ʖ◉)つHay un viejo dicho alemán: \"no culpes al pez\". Hay otros dichos, pero, implican genocidio.",
-    "espectadores": "9 Watching"
+    "espectadores": "19 Watching"
   },
   {
     "canal": "cienciaficcion",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cienciaficcion.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/cienciaficcion.jpg",
     "estado": "Startrek - StarGate",
-    "espectadores": "8 Watching"
+    "espectadores": "16 Watching"
   },
   {
     "canal": "futurama_mania_",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/futurama_mania_.jpg",
     "estado": "(movie) < Bienvenidos A Futurama_Mania > Si Te Gusta El Canal No Olvides Seguirnos Sobre El ><3< Debajo La Pantalla (bow) Gracias",
-    "espectadores": "8 Watching"
+    "espectadores": "16 Watching"
   },
   {
-    "canal": "11telemundial",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_11telemundial.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/11telemundial.jpg",
-    "estado": ":: TELEFE argentina ::",
-    "espectadores": "7 Watching"
+    "canal": "peliculas_moe",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/peliculas_moe.jpg",
+    "estado": "Pelis Infantiles ~ 24 horas",
+    "espectadores": "15 Watching"
+  },
+  {
+    "canal": "shy_ch_aariah",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_aariah.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/shy_ch_aariah.jpg",
+    "estado": "(◉ _ ◉) Cuando te cagas en los sueños, te cagas de verdad.",
+    "espectadores": "14 Watching"
+  },
+  {
+    "canal": "shy_ch_anaeter",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_anaeter.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/shy_ch_anaeter.jpg",
+    "estado": "┌(◉ ͜ʖ◉)つHay un viejo dicho alemán: \"no culpes al pez\". Hay otros dichos, pero, implican genocidio.",
+    "espectadores": "14 Watching"
+  },
+  {
+    "canal": "criticando_pelis3",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/criticando_pelis3.jpg",
+    "estado": "Coming at you LIVE!",
+    "espectadores": "10 Watching"
   },
   {
     "canal": "juan_13tv",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/juan_13tv.jpg",
     "estado": "canal 13 buenos aires en vivo",
-    "espectadores": "4 Watching"
+    "espectadores": "9 Watching"
+  },
+  {
+    "canal": "medieval_tv_series",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_medieval_tv_series.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/medieval_tv_series.jpg",
+    "estado": "SERIES 1990-2023 HORARIO (11AM-02AM)MEXICO CENTRO",
+    "espectadores": "7 Watching"
+  },
+  {
+    "canal": "shay_saheed",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shay_saheed.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/shay_saheed.jpg",
+    "estado": "Jeepers Creepers 1-4, The CUBE 1-3",
+    "espectadores": "6 Watching"
+  },
+  {
+    "canal": "mangondelicioso",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mangondelicioso.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/mangondelicioso.jpg",
+    "estado": "bebe de mi y viviras eternamente",
+    "espectadores": "5 Watching"
   },
   {
     "canal": "drmedia",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_drmedia.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/drmedia.jpg",
     "estado": "Disfruta de las mejores peliculas",
-    "espectadores": "3 Watching"
+    "espectadores": "4 Watching"
   },
   {
-    "canal": "tufortunatv",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_tufortunatv.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/tufortunatv.jpg",
-    "estado": "Coming at you LIVE!",
-    "espectadores": "3 Watching"
+    "canal": "cityfm",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cityfm.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/cityfm.jpg",
+    "estado": "<Removed URL>",
+    "espectadores": "2 Watching"
+  },
+  {
+    "canal": "compumaster",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_compumaster.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/compumaster.jpg",
+    "estado": "Peliculas y Series Para Todos, BIENVENIDOS",
+    "espectadores": "2 Watching"
   },
   {
     "canal": "ninojack",
@@ -140,10 +175,17 @@
     "espectadores": "2 Watching"
   },
   {
-    "canal": "shay_saheed",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_shay_saheed.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/shay_saheed.jpg",
-    "estado": "Jeepers Creepers 1-4, The CUBE 1-3",
+    "canal": "ricosysabios",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_ricosysabios.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/ricosysabios.jpg",
+    "estado": "canal de animetv (castillo infinito)",
+    "espectadores": "2 Watching"
+  },
+  {
+    "canal": "telecine",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_telecine.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/telecine.jpg",
+    "estado": "PELICULAS,SERIES,Y ANIMADOS DE TODOS LOS TIEMPOS.",
     "espectadores": "2 Watching"
   },
   {
@@ -154,30 +196,16 @@
     "espectadores": "2 Watching"
   },
   {
-    "canal": "a_juanmusic",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_a_juanmusic.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/a_juanmusic.jpg",
-    "estado": "🔸🔷 🔵ßĪƐᑎѴƐᑎĪDOS🔵 🔷🔸★••••• a ════★ஜ۩۞۩ஜ JUAN MUSIC VARIADA INGLES",
-    "espectadores": "1 Watching"
-  },
-  {
-    "canal": "telecine",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_telecine.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/telecine.jpg",
-    "estado": "PELICULAS,SERIES,Y ANIMADOS DE TODOS LOS TIEMPOS.",
-    "espectadores": "1 Watching"
-  },
-  {
-    "canal": "televisionomega",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_televisionomega.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/televisionomega.jpg",
+    "canal": "tufortunatv",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_tufortunatv.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/tufortunatv.jpg",
     "estado": "Coming at you LIVE!",
-    "espectadores": "1 Watching"
+    "espectadores": "2 Watching"
   },
   {
-    "canal": "tvmaxteustepe",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_tvmaxteustepe.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/tvmaxteustepe.jpg",
+    "canal": "filmania",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_filmania.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/filmania.jpg",
     "estado": "Coming at you LIVE!",
     "espectadores": "1 Watching"
   },
@@ -189,23 +217,30 @@
     "espectadores": "1 Watching"
   },
   {
-    "canal": "mindalia",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mindalia.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/mindalia.jpg",
-    "estado": "Coming at you LIVE!",
-    "espectadores": "0 Watching"
-  },
-  {
-    "canal": "ricosysabios",
-    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_ricosysabios.flv|Referer=https://vaughn.live",
-    "logo": "https://cdn.vaughnsoft.net/profile/2145/ricosysabios.jpg",
-    "estado": "canal de animetv (castillo infinito)",
+    "canal": "espiatv",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_espiatv.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/espiatv.jpg",
+    "estado": "Películas de variadas 24/7",
     "espectadores": "0 Watching"
   },
   {
     "canal": "sintonia",
     "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_sintonia.flv|Referer=https://vaughn.live",
     "logo": "https://cdn.vaughnsoft.net/profile/2145/sintonia.jpg",
+    "estado": "Coming at you LIVE!",
+    "espectadores": "0 Watching"
+  },
+  {
+    "canal": "televisionomega",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_televisionomega.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/televisionomega.jpg",
+    "estado": "Coming at you LIVE!",
+    "espectadores": "0 Watching"
+  },
+  {
+    "canal": "tvmaxteustepe",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_tvmaxteustepe.flv|Referer=https://vaughn.live",
+    "logo": "https://cdn.vaughnsoft.net/profile/2145/tvmaxteustepe.jpg",
     "estado": "Coming at you LIVE!",
     "espectadores": "0 Watching"
   },
